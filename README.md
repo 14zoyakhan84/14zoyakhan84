@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @14zoyakhan84
+- 👋 Hi, I’m @sanaaslam5122
 - 👀 I’m interested in programing langauges(C++,python,html,css,java script)
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
